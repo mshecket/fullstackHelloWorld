@@ -1,0 +1,23 @@
+[
+{
+    "type": "header",
+    "version": "",
+    "comment": "Export to JSON plugin for PHPMyAdmin"
+},
+{
+    "type": "database",
+    "name": "mikeshecket_HELLOWORLD"
+},
+{
+    "type": "table",
+    "name": "messages",
+    "database": "mikeshecket_HELLOWORLD",
+    "data": 
+[
+{
+    "message": "Hello world!"
+}
+]
+
+}
+]
