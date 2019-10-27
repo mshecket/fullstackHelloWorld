@@ -1,3 +1,5 @@
+document.getElementById("root").innerHTML = "Loading..."
+
 var request = new XMLHttpRequest()
 
 request.open('GET', 'https://helloworld.mikeshecket.com/helloworld.php', true)
