@@ -2,7 +2,7 @@
    $data = new stdClass();
    $myJSON = new stdClass();
 
-   $dbhost = 'localhost';
+   $dbhost = 'mysql.server269.com:3306';
    $dbuser = 'hello';
    $dbpass = 'phuubohngaipaip';
    $dbname = 'mikeshecket_HELLOWORLD';
